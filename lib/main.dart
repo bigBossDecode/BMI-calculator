@@ -215,7 +215,7 @@ class _BMIHomePageState extends State<BMIHomePage> {
                     ),
                     Card(
                       elevation: 4.0,
-                      color: Color(0xff121212),
+                      color: const Color(0xff121212),
                       child: Container(
                         alignment: Alignment.center,
                         width: 135,
@@ -265,7 +265,7 @@ class _BMIHomePageState extends State<BMIHomePage> {
                   ],
                 ),
                 Card(
-                  color: Color(0xff121212),
+                  color:const Color(0xff121212),
                   child: Container(
                     width: width-30,
                     height: 110,
